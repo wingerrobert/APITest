@@ -1,0 +1,28 @@
+{
+ "AppointmentTypes": [
+    {
+        "id": 1,
+        "code": "RC",
+        "description": "Routine Checkup",
+        "duration": 45
+    },
+    {
+        "id": 2,
+        "code": "SC",
+        "description": "Cleaning",
+        "duration": 30
+    },
+    {
+        "id": 3,
+        "code": "EM",
+        "description": "Emerg",
+        "duration": 30
+    },
+    {
+        "id": 4,
+        "code": "CT",
+        "description": "Consult",
+        "duration": 15
+    }
+]
+}
