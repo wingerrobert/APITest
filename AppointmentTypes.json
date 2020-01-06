@@ -1,5 +1,4 @@
-{
- "AppointmentTypes": [
+[
     {
         "id": 1,
         "code": "RC",
@@ -25,4 +24,3 @@
         "duration": 15
     }
 ]
-}
